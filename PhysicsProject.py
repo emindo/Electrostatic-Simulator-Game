@@ -1,4 +1,3 @@
-from turtle import mode
 import pygame as py
 import sys
 import math
